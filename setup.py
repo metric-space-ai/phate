@@ -9,7 +9,7 @@ setup(
     author="Michael Welsch",
     author_email="michael.welsch@metric-space.ai",
     description="Implementation of the PHATE algorithm",
-    long_description='Refactored version of the PHATE algorithm, originally implemented by Krishnaswamy Labs, that does no use outdated dependencies any more'
+    long_description='Refactored version of the PHATE algorithm, originally implemented by Krishnaswamy Labs, that does no use outdated dependencies any more',
     long_description_content_type="text/markdown",
     url="https://github.com/metric-space-ai/phate",
     packages=find_packages(),
