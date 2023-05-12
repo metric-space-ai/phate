@@ -1,7 +1,7 @@
 from __future__ import absolute_import
 
 from .phate import PHATE
-from .phateAI import PHATEAE
+from .phateAE import PHATEAE
 import phate.tree
 import phate.io
 import phate.preprocessing
